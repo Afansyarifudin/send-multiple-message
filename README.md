@@ -8,5 +8,5 @@
 ## Dependency package (run theese in your cli)
 1. pip install PyAutoGUI
 2. pip install python-time
-3. pip install pycopy-webbrowser
+3. pip install pyWebBrowser
 4. pip install pandas
